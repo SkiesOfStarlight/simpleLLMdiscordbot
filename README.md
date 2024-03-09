@@ -10,11 +10,11 @@ Installation steps:
 6. enter the port of the local inference server, discord bot token, and system message of the language model when prompted.
 
 QnA:
-1. Is this safe?
-  Yes.
-2. Where's the documentation?
+1. Is this safe
+   Yes.
+3. Where's the documentation?
    It's a 70 line python script, it's self documenting.
-3. why doesn't [thing] work?
+4. why doesn't [thing] work?
    Ensure you have the necessary dependencies installed and your discord bot has the correct permissions.
-4. Will you make the install script Mac and Linux compatible?
+5. Will you make the install script Mac and Linux compatible?
    soon.
