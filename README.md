@@ -17,5 +17,3 @@ QnA:
    It's a 70 line python script, it's self documenting.
 4. why doesn't [thing] work?
    Ensure you have the necessary dependencies installed and your discord bot has the correct permissions.
-5. Will you make the install script Mac and Linux compatible?
-   soon.
